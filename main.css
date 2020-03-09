@@ -6,6 +6,7 @@
 /** This class will show the body if it has "active" parent class. "active" class will be added to panel div **/
 #accordion .active .acc-body {
    display : block;
+   background-color: lightgrey;
 }
 #accordion .panel{
   border : solid 1px #D6D6D6;
